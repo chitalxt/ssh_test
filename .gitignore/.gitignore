@@ -1,0 +1,7 @@
+*.pyc
+*.vscode
+*.idea
+*.log
+*.egg
+*.xml
+settings.*
